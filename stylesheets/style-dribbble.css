@@ -7,7 +7,7 @@ html, body {
   padding: 0;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Lato",  Helvetica, Arial, "Lucida Grande", sans-serif; 
   font-weight: 500;
-  background: url(../img/banner.jpg) fixed;
+  background: url(../images/banner.jpg) fixed;
 }
 
 h1,h2,h3,h4,h5,h6 {
